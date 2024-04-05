@@ -10,4 +10,4 @@ I'm a 20-year-old 2nd year student at the Faculty of Electronics, Telecommunicat
 
 - 💻 My journey has exposed me to various domains including embedded programming, Internet of Things, and networking. While still on my learning path, I have garnered some skill in languages such as C, C++, Python, and web technologies like HTML5 and CSS3. I know my way around with Linux, comfortable bashing and scripting. I'm also familiar with computer vision (OpenCV), 3D modelling using Autodesk Inventor, circuit simulation with tools like TinaTI and PSpice and digital circuit design with VerilogHDL.
 
-- 🤝 Let's connect on [LinkedIn](<www.linkedin.com/in/andreas-bașchir-21b963236>) to learn more about my journey and interests!
+- 🤝 Let's connect on [LinkedIn](www.linkedin.com/in/andreas-bașchir-21b963236) to learn more about my journey and interests!
