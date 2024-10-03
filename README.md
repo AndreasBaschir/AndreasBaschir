@@ -1,6 +1,6 @@
 # Hello there, I'm Andreas! 👋
 
-I'm a 20-year-old 2nd year student at the Faculty of Electronics, Telecommunications, and Information Technology at the University Politehnica Bucharest, with a growing interest in Software Engineering. Here's a glimpse into what I've been up to:
+I'm a 21-year-old 3rd year student at the Faculty of Electronics, Telecommunications, and Information Technology at the University Politehnica Bucharest, with a growing interest in Software Engineering. Here's a glimpse into what I've been up to:
 
 - 🔭 I was recently involved in the Bosch Future Mobility Competition 2024. My team and I worked on an autonomous RC car (scale 1/10) to navigate real-life traffic conditions, and we've managed to make it to the international semi-finals.
 
