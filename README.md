@@ -1,5 +1,5 @@
 👋 Hi, I'm Andreas
-🎓 3rd-year Electronics & Telecom student @ UPB, passionate about Software Engineering, AI, and Computer Vision.
+🎓 Entering 4th year Electronics & Telecom student @ UPB, passionate about Software Engineering, AI, and Computer Vision.
 
 🚀 Notable Projects
 
